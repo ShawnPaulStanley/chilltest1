@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phosphor-style Leaf (pink) -->
+  <path d="M216 40c-40 0-72 16-96 40S56 144 40 216c72-16 136-40 168-80s40-56 8-88Z" stroke="#ff6fae" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M216 40C144 112 88 168 40 216" stroke="#ff6fae" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
